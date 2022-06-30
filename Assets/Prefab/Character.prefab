@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4710770829280284519, guid: 45a1062fe5b8a9b45b93058fd05a3424, type: 3}
       propertyPath: m_Name
-      value: MacadamiaN
+      value: Character
       objectReference: {fileID: 0}
     - target: {fileID: 5344600338239739357, guid: 45a1062fe5b8a9b45b93058fd05a3424, type: 3}
       propertyPath: m_RootOrder
@@ -75,3 +75,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.1
+--- !u!114 &5562766278869219101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4082315821723282232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34d3108f0898189459f491d9a843e643, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bIsOnTheMove: 0

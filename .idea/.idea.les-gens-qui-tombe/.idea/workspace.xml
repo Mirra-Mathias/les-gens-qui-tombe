@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="CharacterMovementController.cs">
+    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CharacterMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CharacterMovementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LowPoly3DAnimatedNutBrothers_CurlingPackage/Animations/NutsController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LowPoly3DAnimatedNutBrothers_CurlingPackage/Animations/NutsController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Character.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Character.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +23,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/CharacterMovementController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CharacterMovementAnimationController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/.gitignore" />
       <option value="$PROJECT_DIR$/Assets/CharacterMovementController.cs" />
+      <option value="$PROJECT_DIR$/Assets/CharacterMovementAnimationController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2BII4VdazlJIJpmVg6h6UjZntmY" />
@@ -74,7 +79,7 @@
       <updated>1656586985321</updated>
       <workItem from="1656586991539" duration="831000" />
       <workItem from="1656587850305" duration="343000" />
-      <workItem from="1656588240547" duration="526000" />
+      <workItem from="1656588240547" duration="1649000" />
     </task>
     <task id="LOCAL-00001" summary="Added LowPoly3DAnimatedNutBrothers_CurlingPackage">
       <created>1656587445841</created>
@@ -97,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656588462374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Character prefab">
+      <created>1656588916117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656588916117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +146,7 @@
     <MESSAGE value="Added LowPoly3DAnimatedNutBrothers_CurlingPackage" />
     <MESSAGE value="Added character assets" />
     <MESSAGE value="CharacterMovementController.cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="CharacterMovementController.cs" />
+    <MESSAGE value="Character prefab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Character prefab" />
   </component>
 </project>
