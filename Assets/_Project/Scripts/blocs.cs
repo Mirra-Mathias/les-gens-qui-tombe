@@ -10,8 +10,8 @@ public class blocs : MonoBehaviour
     public GameObject cube;
     List<GameObject> cubes = new List<GameObject>();
     float speedCube = 2000;
-    float multipleSpeedCube = 1.05f;
-    float limitSpeed = 1.5f;
+    float multipleSpeedCube = 1.2f;
+    float limitSpeed = 9000;
     void Start()
     {
         int position = 0;

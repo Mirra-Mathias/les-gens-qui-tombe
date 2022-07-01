@@ -404,7 +404,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4900182721540897725}
-  - component: {fileID: 75979985}
   m_Layer: 0
   m_Name: Plateforme
   m_TagString: Untagged
@@ -432,18 +431,3 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &75979985
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6205104190421413402}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 74b6b594c72341d46be0dc20566d1498, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  cube: {fileID: 6325982027523638025, guid: 20fa79e6fe1ac0c4396b7217b63b4f6c, type: 3}
-  startPosition: 70
-  speed: 10
