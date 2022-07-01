@@ -18,6 +18,6 @@ public class TimerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _textComponent.text = (DateTime.Now - scoreManager.CurrentStartTime).ToString("g");
+        _textComponent.text = (DateTime.Now - scoreManager.CurrentStartTime).ToString(ScoreManager.TimeSpanStringFormat);
     }
 }

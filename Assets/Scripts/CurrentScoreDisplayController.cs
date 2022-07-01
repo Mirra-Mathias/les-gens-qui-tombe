@@ -10,6 +10,6 @@ public class CurrentScoreDisplayController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GetComponent<TextMeshProUGUI>().text = "Temps : " + scoreManager.CurrentScore.ToString("g");
+        GetComponent<TextMeshProUGUI>().text = "Temps : " + scoreManager.CurrentScore.ToString(ScoreManager.TimeSpanStringFormat);
     }
 }

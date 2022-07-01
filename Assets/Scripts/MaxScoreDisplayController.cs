@@ -10,6 +10,6 @@ public class MaxScoreDisplayController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GetComponent<TextMeshProUGUI>().text = "Meilleur temps : " + scoreManager.MaxScore.ToString("g");
+        GetComponent<TextMeshProUGUI>().text = "Meilleur temps : " + scoreManager.MaxScore.ToString(ScoreManager.TimeSpanStringFormat);
     }
 }

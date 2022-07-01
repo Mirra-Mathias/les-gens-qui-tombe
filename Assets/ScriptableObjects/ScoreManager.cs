@@ -6,6 +6,7 @@ public class ScoreManager : ScriptableObject
 {
     private DateTime _currentStartTime;
     private TimeSpan _maxScore, _currentScore;
+    public const string TimeSpanStringFormat = "mm':'ss':'fff";
 
     public DateTime CurrentStartTime => _currentStartTime;
 
