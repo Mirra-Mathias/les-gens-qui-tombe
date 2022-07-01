@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="ScoreManager.cs">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="CharacterDeathController and scores">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/GameOver.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/GameOver.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/Menu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +48,12 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterFallController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" />
-      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterDeathController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CurrentTimeDisplayController.cs" />
       <option value="$PROJECT_DIR$/Assets/MaxScoreDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CurrentScoreDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2BII4VdazlJIJpmVg6h6UjZntmY" />
@@ -98,7 +102,7 @@
       <updated>1656586985321</updated>
       <workItem from="1656586991539" duration="831000" />
       <workItem from="1656587850305" duration="343000" />
-      <workItem from="1656588240547" duration="14057000" />
+      <workItem from="1656588240547" duration="14285000" />
     </task>
     <task id="LOCAL-00001" summary="Added LowPoly3DAnimatedNutBrothers_CurlingPackage">
       <created>1656587445841</created>
@@ -191,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656664269408</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="CharacterDeathController and scores">
+      <created>1656664453043</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656664453043</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +249,7 @@
     <MESSAGE value="Added TimerController" />
     <MESSAGE value="Added Timer" />
     <MESSAGE value="ScoreManager.cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="ScoreManager.cs" />
+    <MESSAGE value="CharacterDeathController and scores" />
+    <option name="LAST_COMMIT_MESSAGE" value="CharacterDeathController and scores" />
   </component>
 </project>

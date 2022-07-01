@@ -21,7 +21,7 @@ public class ScoreManager : ScriptableObject
     public void Stop()
     {
         _currentScore = DateTime.Now - _currentStartTime;
-        if (_currentScore < _maxScore)
+        if (_currentScore > _maxScore)
         {
             _maxScore = _currentScore;
         }
