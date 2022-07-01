@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class blocs : MonoBehaviour
 {
-    int[] positionsCube = new int[] { -45, 4, 70 };
+    int[] positionsCube = new int[] { -45, 5, 70 };
     int ligneGap = 50;
     int[] scaleCube = new int[] { 10, 10, 10 };
     List<GameObject> cubes = new List<GameObject>();
