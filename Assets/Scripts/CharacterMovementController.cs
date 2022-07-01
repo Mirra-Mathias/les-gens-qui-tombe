@@ -35,11 +35,6 @@ public class CharacterMovementController : MonoBehaviour
             transform.rotation =
                 Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);
         }
-
-        if (_rigidbody.position.y < -40)
-        {
-            SceneManager.LoadScene("GameOver");
-        }
     }
 
     private void OnTriggerEnter(Collider other)

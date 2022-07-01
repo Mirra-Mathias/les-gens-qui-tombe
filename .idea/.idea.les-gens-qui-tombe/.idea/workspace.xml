@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="Scene_Jeu.unity">
+    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="Added Timer">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Timer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Timer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +26,20 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CharacterMovementAnimationController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1332C534-A8A4-4623-B2E5-CC943A0B790E/e2/22bf7320/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1332C534-A8A4-4623-B2E5-CC943A0B790E/e2/22bf7320/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -37,7 +48,12 @@
       <option value="$PROJECT_DIR$/Assets/CharacterMovementController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementAnimationController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterFallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterDeathController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CurrentTimeDisplayController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2BII4VdazlJIJpmVg6h6UjZntmY" />
@@ -86,7 +102,7 @@
       <updated>1656586985321</updated>
       <workItem from="1656586991539" duration="831000" />
       <workItem from="1656587850305" duration="343000" />
-      <workItem from="1656588240547" duration="9631000" />
+      <workItem from="1656588240547" duration="13884000" />
     </task>
     <task id="LOCAL-00001" summary="Added LowPoly3DAnimatedNutBrothers_CurlingPackage">
       <created>1656587445841</created>
@@ -144,7 +160,35 @@
       <option name="project" value="LOCAL" />
       <updated>1656597999080</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Character fall">
+      <created>1656659325420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656659325420</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ScoreManager">
+      <created>1656660056307</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656660056307</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added TimerController">
+      <created>1656662661553</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656662661553</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added Timer">
+      <created>1656662835836</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656662835836</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +230,10 @@
     <MESSAGE value="Change form walking to running" />
     <MESSAGE value="Manage collision between platform and Character" />
     <MESSAGE value="Scene_Jeu.unity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scene_Jeu.unity" />
+    <MESSAGE value="Character fall" />
+    <MESSAGE value="ScoreManager" />
+    <MESSAGE value="Added TimerController" />
+    <MESSAGE value="Added Timer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Timer" />
   </component>
 </project>

@@ -1,23 +1,29 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
 
+[CreateAssetMenu]
 public class ScoreManager : ScriptableObject
 {
-    private float _maxScore, _currentScore;
+    private DateTime _currentStartTime;
+    private TimeSpan _maxScore, _currentScore;
 
-    public float MaxScore => _maxScore;
+    public DateTime CurrentStartTime => _currentStartTime;
 
-    public float CurrentScore
+    public TimeSpan MaxScore => _maxScore;
+
+    public TimeSpan CurrentScore => _currentScore;
+
+    public void Start()
     {
-        get => _currentScore;
-        set
+        _currentStartTime = DateTime.Now;
+    }
+
+    public void Stop()
+    {
+        _currentScore = DateTime.Now - _currentStartTime;
+        if (_currentScore < _maxScore)
         {
-            _currentScore = value;
-            if (value > _maxScore)
-            {
-                _maxScore = value;
-            }
+            _maxScore = _currentScore;
         }
     }
 }
