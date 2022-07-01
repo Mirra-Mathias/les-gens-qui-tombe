@@ -9,7 +9,7 @@ public class blocs : MonoBehaviour
 
     public GameObject cube;
     List<GameObject> cubes = new List<GameObject>();
-    float speedCube = 2000;
+    float speedCube = 3500;
     float multipleSpeedCube = 1.2f;
     float limitSpeed = 9000;
     void Start()
