@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class blocs : MonoBehaviour
 {
-    int[] positionsCube = new int[] { -45, 5, 70 };
+    float[] positionsCube = new float[] { -45, 6, 70 };
     int ligneGap = 48;
-    int[] scaleCube = new int[] { 10, 10, 10 };
+
+    public GameObject cube;
     List<GameObject> cubes = new List<GameObject>();
-    Color colorCube = Color.red;
-    float speedCube = 20;
+    float speedCube = 2000;
     float multipleSpeedCube = 1.05f;
     float limitSpeed = 1.5f;
     void Start()
@@ -30,14 +30,8 @@ public class blocs : MonoBehaviour
 
             if (index != random1 && index != random2)
             {
-                cubes.Add(GameObject.CreatePrimitive(PrimitiveType.Cube));
-                cubes[position].transform.localScale = new Vector3(scaleCube[0], scaleCube[1], scaleCube[2]);
-                cubes[position].transform.localPosition = new Vector3(positionsCube[0] + positionMultiple, positionsCube[1], positionsCube[2]);
-                cubes[position].GetComponent<MeshRenderer>().material.color = colorCube;
-                cubes[position].AddComponent<BoxCollider>();
+                cubes.Add(Instantiate(cube, new Vector3(positionsCube[0] + positionMultiple, positionsCube[1],  positionsCube[2]), Quaternion.identity));
                 position++;
-
-
             }
 
             positionMultiple += 10;
@@ -57,11 +51,7 @@ public class blocs : MonoBehaviour
 
             if (index != random1 && index != random2)
             {
-                cubes.Add(GameObject.CreatePrimitive(PrimitiveType.Cube));
-                cubes[position].transform.localScale = new Vector3(scaleCube[0], scaleCube[1], scaleCube[2]);
-                cubes[position].transform.localPosition = new Vector3(positionsCube[0] + positionMultiple, positionsCube[1], positionsCube[2] + ligneGap);
-                cubes[position].GetComponent<MeshRenderer>().material.color = colorCube;
-                cubes[position].AddComponent<BoxCollider>();
+                cubes.Add(Instantiate(cube, new Vector3(positionsCube[0] + positionMultiple, positionsCube[1],  positionsCube[2] + ligneGap), Quaternion.identity));
                 position++;
             }
 
@@ -77,7 +67,7 @@ public class blocs : MonoBehaviour
 
         foreach (GameObject cube in cubes)
         {
-            cube.transform.Translate(((-Vector3.forward) * Time.deltaTime) * speedCube);
+            cube.GetComponent<Rigidbody>().velocity = Vector3.back  * Time.deltaTime * speedCube;
         }
 
         if (cubes[0].transform.position.z < -52)
@@ -97,11 +87,9 @@ public class blocs : MonoBehaviour
                 if (index != random1 && index != random2)
                 {
                     Destroy(cubes[position]);
-                    cubes[position] = GameObject.CreatePrimitive(PrimitiveType.Cube);
-                    cubes[position].transform.localScale = new Vector3(scaleCube[0], scaleCube[1], scaleCube[2]);
-                    cubes[position].transform.localPosition = new Vector3(positionsCube[0] + positionMultiple, positionsCube[1], positionsCube[2]);
-                    cubes[position].GetComponent<MeshRenderer>().material.color = colorCube;
-                    cubes[position].AddComponent<BoxCollider>();
+                    cubes[position] = Instantiate(cube,
+                        new Vector3(positionsCube[0] + positionMultiple, positionsCube[1], positionsCube[2]),
+                        Quaternion.identity);
 
                     position++;
 
@@ -128,11 +116,9 @@ public class blocs : MonoBehaviour
                 if (index != random1 && index != random2)
                 {
                     Destroy(cubes[position]);
-                    cubes[position] = GameObject.CreatePrimitive(PrimitiveType.Cube);
-                    cubes[position].transform.localScale = new Vector3(scaleCube[0], scaleCube[1], scaleCube[2]);
-                    cubes[position].transform.localPosition = new Vector3(positionsCube[0] + positionMultiple, positionsCube[1], positionsCube[2]);
-                    cubes[position].GetComponent<MeshRenderer>().material.color = colorCube;
-                    cubes[position].AddComponent<BoxCollider>();
+                    cubes[position] = Instantiate(cube,
+                        new Vector3(positionsCube[0] + positionMultiple, positionsCube[1], positionsCube[2]),
+                        Quaternion.identity);
                     position++;
 
                 }
