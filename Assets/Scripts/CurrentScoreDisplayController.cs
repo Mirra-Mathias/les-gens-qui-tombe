@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class CurrentTimeDisplayController : MonoBehaviour
+public class CurrentScoreDisplayController : MonoBehaviour
 {
     public ScoreManager scoreManager;
 

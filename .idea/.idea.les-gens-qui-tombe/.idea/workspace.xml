@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="Added Timer">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Timer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Timer.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" afterDir="false" />
+    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="ScoreManager.cs">
       <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
@@ -33,6 +27,7 @@
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
@@ -54,6 +49,7 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterDeathController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CurrentTimeDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/MaxScoreDisplayController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2BII4VdazlJIJpmVg6h6UjZntmY" />
@@ -102,7 +98,7 @@
       <updated>1656586985321</updated>
       <workItem from="1656586991539" duration="831000" />
       <workItem from="1656587850305" duration="343000" />
-      <workItem from="1656588240547" duration="13884000" />
+      <workItem from="1656588240547" duration="14057000" />
     </task>
     <task id="LOCAL-00001" summary="Added LowPoly3DAnimatedNutBrothers_CurlingPackage">
       <created>1656587445841</created>
@@ -188,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656662835836</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ScoreManager.cs">
+      <created>1656664269408</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656664269408</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +237,7 @@
     <MESSAGE value="ScoreManager" />
     <MESSAGE value="Added TimerController" />
     <MESSAGE value="Added Timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Timer" />
+    <MESSAGE value="ScoreManager.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="ScoreManager.cs" />
   </component>
 </project>
