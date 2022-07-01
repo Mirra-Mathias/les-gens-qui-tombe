@@ -5,7 +5,7 @@ using UnityEngine;
 public class blocs : MonoBehaviour
 {
     int[] positionsCube = new int[] { -45, 5, 70 };
-    int ligneGap = 50;
+    int ligneGap = 48;
     int[] scaleCube = new int[] { 10, 10, 10 };
     List<GameObject> cubes = new List<GameObject>();
     Color colorCube = Color.red;
@@ -80,7 +80,7 @@ public class blocs : MonoBehaviour
             cube.transform.Translate(((-Vector3.forward) * Time.deltaTime) * speedCube);
         }
 
-        if (cubes[0].transform.position.z < -50)
+        if (cubes[0].transform.position.z < -52)
         {
             int position = 0;
             int positionMultiple = 0;
@@ -111,7 +111,7 @@ public class blocs : MonoBehaviour
 
         }
 
-        if (cubes[9].transform.position.z < -50)
+        if (cubes[9].transform.position.z < -52)
         {
             int position = 8;
             int positionMultiple = 0;
