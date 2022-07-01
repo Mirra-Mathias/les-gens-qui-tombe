@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="Changed time display format">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Plateforme.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Plateforme.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/blocs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/blocs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/TimerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/MaxScoreDisplayController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CharacterMovementAnimationController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CurrentScoreDisplayController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/ScriptableObjects/ScoreManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1332C534-A8A4-4623-B2E5-CC943A0B790E/e2/22bf7320/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/Assets/CharacterMovementAnimationController.cs" />
+      <option value="$PROJECT_DIR$/Assets/CharacterMovementController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementAnimationController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterFallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterDeathController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CurrentTimeDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/MaxScoreDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CurrentScoreDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MaxScoreDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CubesController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/blocs.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="2BII4VdazlJIJpmVg6h6UjZntmY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="" />
+      <created>1656586985321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656586985321</updated>
+      <workItem from="1656586991539" duration="831000" />
+      <workItem from="1656587850305" duration="343000" />
+      <workItem from="1656588240547" duration="21873000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added LowPoly3DAnimatedNutBrothers_CurlingPackage">
+      <created>1656587445841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656587445841</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added character assets">
+      <created>1656587916010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656587916010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CharacterMovementController.cs">
+      <created>1656588462374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656588462374</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Character prefab">
+      <created>1656588916117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656588916117</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added CharacterMovementAnimationController to Character.prefab">
+      <created>1656589960365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656589960365</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change form walking to running">
+      <created>1656592263846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656592263846</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Manage collision between platform and Character">
+      <created>1656597949493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656597949493</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Scene_Jeu.unity">
+      <created>1656597999080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656597999080</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Character fall">
+      <created>1656659325420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656659325420</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ScoreManager">
+      <created>1656660056307</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656660056307</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added TimerController">
+      <created>1656662661553</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656662661553</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added Timer">
+      <created>1656662835836</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656662835836</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ScoreManager.cs">
+      <created>1656664269408</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656664269408</updated>
+    </task>
+    <task id="LOCAL-00014" summary="CharacterDeathController and scores">
+      <created>1656664453043</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656664453043</updated>
+    </task>
+    <task id="LOCAL-00015" summary="timer">
+      <created>1656664637457</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656664637457</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Changed time display format">
+      <created>1656665814353</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656665814353</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added LowPoly3DAnimatedNutBrothers_CurlingPackage" />
+    <MESSAGE value="Added character assets" />
+    <MESSAGE value="CharacterMovementController.cs" />
+    <MESSAGE value="Character prefab" />
+    <MESSAGE value="Added CharacterMovementAnimationController to Character.prefab" />
+    <MESSAGE value="Change form walking to running" />
+    <MESSAGE value="Manage collision between platform and Character" />
+    <MESSAGE value="Scene_Jeu.unity" />
+    <MESSAGE value="Character fall" />
+    <MESSAGE value="ScoreManager" />
+    <MESSAGE value="Added TimerController" />
+    <MESSAGE value="Added Timer" />
+    <MESSAGE value="ScoreManager.cs" />
+    <MESSAGE value="CharacterDeathController and scores" />
+    <MESSAGE value="timer" />
+    <MESSAGE value="Changed time display format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed time display format" />
+  </component>
+</project>
