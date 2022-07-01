@@ -36,7 +36,7 @@ public class CharacterMovementController : MonoBehaviour
                 Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);
         }
 
-        if (_rigidbody.position.y < -20)
+        if (_rigidbody.position.y < -40)
         {
             SceneManager.LoadScene("GameOver");
         }
