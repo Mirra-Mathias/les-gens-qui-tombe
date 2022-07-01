@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="CharacterDeathController and scores">
+    <list default="true" id="62511b10-1c4e-4438-9301-679c04b77d00" name="Default Changelist" comment="Changed time display format">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.les-gens-qui-tombe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/GameOver.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/GameOver.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Plateforme.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Plateforme.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_Jeu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/blocs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/blocs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,20 +25,26 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/TimerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/MaxScoreDisplayController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CharacterMovementAnimationController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CurrentScoreDisplayController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scripts/CharacterMovementController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Prefab/Character.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/ScriptableObjects/ScoreManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1332C534-A8A4-4623-B2E5-CC943A0B790E/e2/22bf7320/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/Assets/Scenes/Scene_Jeu.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Jack-Studd-Junior/Desktop/les-gens-qui-tombe/ProjectSettings/RiderScriptEditorPersistedState.asset" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -47,13 +54,16 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementAnimationController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterFallController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ScoreManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterDeathController.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CurrentTimeDisplayController.cs" />
       <option value="$PROJECT_DIR$/Assets/MaxScoreDisplayController.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CurrentScoreDisplayController.cs" />
       <option value="$PROJECT_DIR$/Assets/ScriptableObjects/ScoreManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TimerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CurrentScoreDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MaxScoreDisplayController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovementController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CubesController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/blocs.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2BII4VdazlJIJpmVg6h6UjZntmY" />
@@ -67,7 +77,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -102,7 +112,7 @@
       <updated>1656586985321</updated>
       <workItem from="1656586991539" duration="831000" />
       <workItem from="1656587850305" duration="343000" />
-      <workItem from="1656588240547" duration="14285000" />
+      <workItem from="1656588240547" duration="21873000" />
     </task>
     <task id="LOCAL-00001" summary="Added LowPoly3DAnimatedNutBrothers_CurlingPackage">
       <created>1656587445841</created>
@@ -202,7 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656664453043</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="timer">
+      <created>1656664637457</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656664637457</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Changed time display format">
+      <created>1656665814353</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656665814353</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +274,8 @@
     <MESSAGE value="Added Timer" />
     <MESSAGE value="ScoreManager.cs" />
     <MESSAGE value="CharacterDeathController and scores" />
-    <option name="LAST_COMMIT_MESSAGE" value="CharacterDeathController and scores" />
+    <MESSAGE value="timer" />
+    <MESSAGE value="Changed time display format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed time display format" />
   </component>
 </project>
